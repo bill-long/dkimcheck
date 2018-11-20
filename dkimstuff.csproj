@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <PackageReference Include="MimeKit" Version="2.0.6" />
+  <PackageReference Include="Heijden.Dns" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
